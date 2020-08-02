@@ -1,6 +1,14 @@
-# matt-plank
 
-Data Scientist highly interested in Machine Learning and probability based problems. I love creating new things and trying out contemporary solutions to challenging problems.
+
+Data Scientist highly interested in Machine Learning and probability based problems. I love creating new and innovative solutions using probability and AI for problems that haven't been explored to their full potential. 
+
+I specialise in producing contemporary, probabilistic solutions that traditional progrmaming doesn't easily enable, and integrating those solutions into larger systems to deliver high utility to the end users.
+
+<!-- Python -->
+<img align="left" alt="Python" width="26px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />
+
+<!-- Golang -->
+<img align="left" alt="Go" width="26px" src="https://user-images.githubusercontent.com/3613230/41752586-476b0b24-7596-11e8-95fe-8fd3faa21e8a.png" />
 
 <!-- TensorFlow -->
 <img align="left" alt="TensorFlow" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/115px-Tensorflow_logo.svg.png" />
@@ -45,6 +53,9 @@ Data Scientist highly interested in Machine Learning and probability based probl
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
 
+<!-- PyCharm -->
+<img align="left" alt="PyCharm" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/PyCharm_Logo.svg/1024px-PyCharm_Logo.svg.png" />
+
 
 <br/>
 <br/>
@@ -54,6 +65,4 @@ Data Scientist highly interested in Machine Learning and probability based probl
 I've worked on a range of projects, such as:
 * Python Deep Learning Library and RESTful API
 * Golang Deep Learning Library and RESTful API
-* Reinforcement learning with simulated environments
-
-
+* Reinforcement learning for games such as Chess
