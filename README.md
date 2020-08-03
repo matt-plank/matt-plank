@@ -1,8 +1,10 @@
-
+# matt-plank
 
 Data Scientist highly interested in Machine Learning and probability based problems. I love creating new and innovative solutions using probability and AI for problems that haven't been explored to their full potential. 
 
 I specialise in producing contemporary, probabilistic solutions that traditional progrmaming doesn't easily enable, and integrating those solutions into larger systems to deliver high utility to the end users.
+
+## Technologies
 
 <!-- Python -->
 <img align="left" alt="Python" width="26px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />
@@ -66,3 +68,14 @@ I've worked on a range of projects, such as:
 * Python Deep Learning Library and RESTful API
 * Golang Deep Learning Library and RESTful API
 * Reinforcement learning for games such as Chess
+
+## More About Me
+
+<a href="https://github.com/iampawan">
+ <img align="center" height=250 src="https://github-readme-stats.vercel.app/api?username=matt-plank&show_icons=true&theme=light&line_height=27" />
+</a>
+<a href="https://github.com/iampawan">
+  <img align="center" height=250 src="https://github-readme-stats.vercel.app/api/top-langs/?username=matt-plank&theme=dark&hide_langs_below=1" />
+</a>
+
+![HitCount](http://hits.dwyl.com/matt-plank/matt-plank/matt-plank.svg)
