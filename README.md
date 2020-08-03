@@ -71,11 +71,7 @@ I've worked on a range of projects, such as:
 
 ## More About Me
 
-<a href="https://github.com/iampawan">
- <img align="center" height=250 src="https://github-readme-stats.vercel.app/api?username=matt-plank&show_icons=true&theme=light&line_height=27" />
-</a>
-<a href="https://github.com/iampawan">
-  <img align="center" height=250 src="https://github-readme-stats.vercel.app/api/top-langs/?username=matt-plank&theme=dark&hide_langs_below=1" />
-</a>
+<img align="center" height=250 src="https://github-readme-stats.vercel.app/api?username=matt-plank&show_icons=true&theme=dark&line_height=27" /></a>
+<img align="center" height=250 src="https://github-readme-stats.vercel.app/api/top-langs/?username=matt-plank&theme=dark&hide_langs_below=1" />
 
 ![HitCount](http://hits.dwyl.com/matt-plank/matt-plank/matt-plank.svg)
