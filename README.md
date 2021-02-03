@@ -18,9 +18,6 @@ I specialise in producing contemporary, probabilistic solutions that traditional
 <!-- PyTorch -->
 <img align="left" alt="PyTorch" width="26px" src="https://pytorch.org/assets/images/pytorch-logo.png">
 
-<!-- Google ML -->
-<img align="left" alt="Google ML Engine" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Cloud-Machine-Learning-Engine-Logo.svg/1200px-Cloud-Machine-Learning-Engine-Logo.svg.png" />
-
 <!-- SQL -->
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 
